@@ -90,6 +90,7 @@ When /^(?:|I )check "([^"]*)"$/ do |field|
   check(field)
 end
 
+
 When /^(?:|I )uncheck "([^"]*)"$/ do |field|
   uncheck(field)
 end
