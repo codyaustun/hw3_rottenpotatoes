@@ -1,5 +1,9 @@
 class MoviesController < ApplicationController
 
+  def similar
+    @movie = Movie.find(params[:id])
+  end
+
   def show
     id = params[:id] # retrieve movie ID from URI route
     @movie = Movie.find(id) # look up movie by unique ID
