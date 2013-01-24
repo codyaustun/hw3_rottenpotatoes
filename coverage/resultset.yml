@@ -1,0 +1,94 @@
+---
+RSpec:
+  :original_result:
+    /Users/colemanc/Google Drive/MIT/Terms/Fall 2012/CS169.1x/VM/hw3_rottenpotatoes/app/controllers/application_controller.rb:
+    - 1
+    - 1
+    - 
+    /Users/colemanc/Google Drive/MIT/Terms/Fall 2012/CS169.1x/VM/hw3_rottenpotatoes/app/helpers/application_helper.rb:
+    - 1
+    - 
+    /Users/colemanc/Google Drive/MIT/Terms/Fall 2012/CS169.1x/VM/hw3_rottenpotatoes/app/helpers/movies_helper.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /Users/colemanc/Google Drive/MIT/Terms/Fall 2012/CS169.1x/VM/hw3_rottenpotatoes/app/controllers/movies_controller.rb:
+    - 1
+    - 
+    - 1
+    - 5
+    - 5
+    - 1
+    - 1
+    - 
+    - 5
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    /Users/colemanc/Google Drive/MIT/Terms/Fall 2012/CS169.1x/VM/hw3_rottenpotatoes/app/models/movie.rb:
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+  :created_at: 2013-01-24 10:41:25.586954000 -05:00
