@@ -17,6 +17,8 @@ module NavigationHelpers
       edit_movie_path(Movie.find_by_title($1))
     when /^the details page for "([^"]*)"$/i
       movie_path(Movie.find_by_title($1))
+    when /^the Similar Movies page for "([^"]*)"$/i
+      "/movies/similar/#{Movie.find_by_title($1).id}"
     when /^the Create New Movie Page$/ then '/movies/new'
     when /^the (RottenPotatoes )?home\s?page$/ then '/movies'
     when /^the movies page$/ then '/movies'
