@@ -8,6 +8,7 @@ Given /the following movies exist/ do |movies_table|
     new_movie.title = movie[:title]
     new_movie.release_date = movie[:release_date]
     new_movie.rating = movie[:rating]
+    new_movie.director = movie[:director]
     new_movie.save
   end
 end

@@ -15,6 +15,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'ZenTest', "!= 4.8.4"
   gem 'factory_girl_rails'
+  gem 'simplecov'
 end
 group :test do
   gem 'cucumber-rails'
